@@ -1,9 +1,10 @@
-# Livraria_Backend
+Projeto utiliza os frameworks:
 
-Projeto em React com API simples em Node.
+Node.js
+Express
 
-Para iniciar o programa é necessario realizar um clone.
+Para rodar o servidor é necessário clonar o projeto, dar um "npm i" 
 
-Depois é necessário realizar um "npm install"
+E deve ser feito as alterações como consta no EXEMPLO.env
 
-Link para acesso ao site: https://livraria-frontend-one.vercel.app
+Link do projeto: https://livraria-frontend-one.vercel.app
